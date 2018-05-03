@@ -11,3 +11,5 @@
 /web/images/icons/*
 !web/images/icons/.gitkeep
 /nbproject/
+/.idea/php.xml
+/.idea/vcs.xml

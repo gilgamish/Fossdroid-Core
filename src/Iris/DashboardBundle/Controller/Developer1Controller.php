@@ -101,6 +101,7 @@ class Developer1Controller extends Controller
     }
 
 
+
     public function newAppResultAction()
     {
         return $this->executeCommand('sudo -u apache /var/www/html/update-store.sh');
